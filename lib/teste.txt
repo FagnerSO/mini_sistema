@@ -1,0 +1,20 @@
+Fernanda Rodrigues;4900,00
+André Pereira;3400,00
+Luciana Carvalho;2200,00
+António Fonseca;4700,00
+Sandra Dias;2600,00
+Daniel Barbosa;4300,00
+Isabel Nunes;4800,00
+Rui Lopes;2100,00
+Teresa Marques;3600,00
+Gabriel Oliveira;3100,35
+Mariana Silva;4750,75
+Pedro Santos;2900,12
+Ana Oliveira;2250,65
+Carla Martins;3402,45
+Rafaela Sousa;2812,60
+Luís Fernandes;4201,23
+Gustavo Almeida;4600,85
+Lara Costa;2901,77
+Bruno Pereira;4499,28
+Osvaldo;199.85
